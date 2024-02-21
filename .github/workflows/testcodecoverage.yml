@@ -76,7 +76,7 @@ jobs:
 #        bundle exec rake webpacker:compile
 
 
-
+  # for linting
   # rubocop-test:
   #   name: Rubocop
   #   runs-on: ubuntu-latest
